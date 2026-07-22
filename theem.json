@@ -1,0 +1,16 @@
+{
+  "name": "Midnight Stars",
+  "description": "Purple galaxy Discord theme",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Rik",
+      "id": "0"
+    }
+  ],
+  "background": {
+    "blur": 3,
+    "url": "https://w0.peakpx.com/wallpaper/985/13/HD-wallpaper-midnight-galaxy-led-light-night-purple-sky-space-star-stars-universe.jpg"
+  },
+  "spec": 2
+}
