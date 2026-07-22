@@ -1,7 +1,7 @@
 {
     "name": "Midnight Stars",
     "description": "Abyssal midnight space with deep purple stars and a cosmic glow.",
-    "version": "1.0",
+    "version": "0.7",
     "authors": [
         {
             "name": "rik.msi",
@@ -197,7 +197,7 @@
     },
     "background": {
         "blur": 3.0,
-        "url": "https://w0.peakpx.com/wallpaper/985/13/HD-wallpaper-midnight-galaxy-led-light-night-purple-sky-space-star-stars-universe.jpg"
+        "url": "https://github.com/Fern-a11y/Midnight-Galaxy/blob/main/IMG_7490.jpeg?raw=true"
     },
     "plus": {
         "version": "0",
