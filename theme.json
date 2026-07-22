@@ -1,0 +1,220 @@
+{
+    "name": "Midnight Stars",
+    "description": "Abyssal midnight space with deep purple stars and a cosmic glow.",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "rik.msi",
+            "id": "1247205137135435816"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_ACCENT": [
+            "#8b5cff",
+            "#6d45d9"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#080615",
+            "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0d0920",
+            "#eeeeee"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#100b26",
+            "#dddddd"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#05040f",
+            "#eeeeee"
+        ],
+        "CHAT_BACKGROUND": [
+            "#080615",
+            "#ffffff"
+        ],
+        "PANEL_BG": [
+            "#080615",
+            "#ffffff"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#100b26",
+            "#ffffff"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b8a4ff",
+            "#4a3090"
+        ],
+        "CHANNEL_ICON": [
+            "#9b7cff",
+            "#4a3090"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffffff",
+            "#111111"
+        ],
+        "HEADER_SECONDARY": [
+            "#c8baff",
+            "#333333"
+        ],
+        "TEXT_NORMAL": [
+            "#eee8ff",
+            "#111111"
+        ],
+        "TEXT_PRIMARY": [
+            "#ffffff",
+            "#111111"
+        ],
+        "TEXT_MUTED": [
+            "#8d82b8",
+            "#555555"
+        ],
+        "TEXT_LINK": [
+            "#a98cff",
+            "#5533aa"
+        ],        "INTERACTIVE_NORMAL": [
+            "#a98cff",
+            "#5533aa"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#d2c5ff",
+            "#332060"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff",
+            "#111111"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4a4265",
+            "#888888"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#241844",
+            "#dddddd"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#ffffff10",
+            "#00000010"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#ffffff18",
+            "#00000018"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#8b5cff30",
+            "#00000020"
+        ],
+        "MENTION_BACKGROUND": [
+            "#8b5cff22",
+            "#00000015"
+        ],
+        "MENTION_FOREGROUND": [
+            "#bdaaff",
+            "#5533aa"
+        ],
+        "BORDER_FAINT": [
+            "#8b5cff30",
+            "#8b5cff30"
+        ],
+        "INPUT_BACKGROUND": [
+            "#0b0818",
+            "#dddddd"
+        ],
+        "INPUT_BORDER_ACTIVE": [
+            "#8b5cff",
+            "#6d45d9"
+        ],
+        "EMBED_BACKGROUND": [
+            "#100b26",
+            "#eeeeee"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#241844",
+            "#dddddd"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#100b26",
+            "#eeeeee"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#8b5cff60",
+            "#8b5cff60"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#8b5cff80",
+            "#8b5cff80"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#080615",
+            "#ffffff"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#0d0920",
+            "#eeeeee"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#100b26",
+            "#dddddd"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#120c2b",
+            "#eeeeee"
+        ],
+        "BG_SURFACE_OVERLAY": [
+            "#080615",
+            "#ffffff"
+        ],
+        "BG_BACKDROP": [
+            "#020108cc",
+            "#101010cc"
+        ],    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#eee8ff",
+        "PRIMARY_300": "#c8baff",
+        "PRIMARY_330": "#b8a4ff",
+        "PRIMARY_360": "#9b7cff",
+        "PRIMARY_400": "#8b5cff",
+        "PRIMARY_600": "#080615",
+        "PRIMARY_630": "#0d0920",
+        "PRIMARY_645": "#8b5cff",
+        "PRIMARY_700": "#080615",
+        "PLUM_0": "#8b5cff",
+        "PLUM_3": "#ffffff",
+        "PLUM_4": "#c8baff",
+        "PLUM_6": "#8b5cff",
+        "PLUM_10": "#241844",
+        "PLUM_17": "#0d0920",
+        "PLUM_18": "#080615",
+        "BRAND_300": "#8b5cff",
+        "BRAND_400": "#8b5cff",
+        "BRAND_500": "#8b5cff",
+        "BRAND_530": "#6d45d9",
+        "BRAND_560": "#5430b0",
+        "RED_360": "#ed4245",
+        "RED_400": "#ed4245",
+        "GREEN_360": "#70c98a",
+        "GREEN_400": "#3ba55d"
+    },
+    "background": {
+        "blur": 3.0,
+        "url": "https://w0.peakpx.com/wallpaper/985/13/HD-wallpaper-midnight-galaxy-led-light-night-purple-sky-space-star-stars-universe.jpg"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "solarbroken",
+        "mentionLineColor": "#8b5cff",
+        "customOverlays": true,
+        "icons": {
+            "ic_star_filled": "#8b5cff",
+            "ic_send": "#8b5cff",
+            "search": "#b8a4ff",
+            "SettingsIcon": "#8b5cff",
+            "MagnifyingGlassIcon": "#8b5cff",
+            "StatusOnline": "#3ba55d",
+            "StatusIdle": "#faa81a",
+            "StatusDND": "#ed4245",
+            "StatusOffline": "#4a4265"
+        }
+    },
+    "spec": 2
+}
